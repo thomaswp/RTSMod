@@ -1,0 +1,11 @@
+.gradle/
+.settings/
+bin/
+build/
+eclipse/
+gradle/
+logs/
+mods/
+resourcepacks/
+saves/
+.classpath
